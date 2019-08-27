@@ -58,5 +58,3 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":main()
-#q=random.choice(['hi','hi2','hi3','ggf'])
-#print(q)
